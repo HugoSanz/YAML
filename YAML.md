@@ -1,6 +1,6 @@
 # YAML
 
-![YAML IMAGE]([] "YAML")
+![YAML IMAGE]([1.png] "YAML")
 
 ## ¿Qué es YAML?
 
