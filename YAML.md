@@ -1,6 +1,6 @@
 # YAML
 
-![YAML IMAGE]([https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhandwiki.org%2Fwiki%2Fimages%2Fthumb%2F5%2F5a%2FOfficial_YAML_Logo.svg%2F512px-Official_YAML_Logo.svg.png%3F20221007064509&f=1&nofb=1&ipt=47875a7124c5817aff77ea15cca494d8c00e18a391b9946e0cb6513ec7fdf319&ipo=images] "YAML")
+![YAML IMAGE]([] "YAML")
 
 ## ¿Qué es YAML?
 
